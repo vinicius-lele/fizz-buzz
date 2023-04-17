@@ -12,4 +12,5 @@ for (let i = 1; i <= 100; i++) {
         minhaDiv.innerHTML += i;
     }
     minhaDiv.innerHTML += '<br>';
+    
 }
